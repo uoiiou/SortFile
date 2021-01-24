@@ -1,0 +1,6 @@
+D:\Uni\5sem\SPP\LB\LB1\LB1\MainFile\bin\Debug\MainFile.dll
+D:\Uni\5sem\SPP\LB\LB1\LB1\MainFile\bin\Debug\MainFile.pdb
+D:\Uni\5sem\SPP\LB\LB1\LB1\MainFile\obj\Debug\MainFileDLL.csproj.CoreCompileInputs.cache
+D:\Uni\5sem\SPP\LB\LB1\LB1\MainFile\obj\Debug\MainFile.dll
+D:\Uni\5sem\SPP\LB\LB1\LB1\MainFile\obj\Debug\MainFile.pdb
+D:\Uni\5sem\SPP\LB\LB1\LB1\MainFile\obj\Debug\MainFileDLL.csprojAssemblyReference.cache
